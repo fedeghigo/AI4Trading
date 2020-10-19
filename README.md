@@ -6,4 +6,4 @@ Course in under Computer Science at Sapienza
 You are currently view my project and case studies developed in this courses 
 
 
-**1)"Bollinger Bands and Buy/Sell signal"** ((https://github.com/fedeghigo/AI4Trading/blob/master/1)Bollinger%20bands.ipynb "Bollinger Bands and Buy/Sell signal")
+**1)"Bollinger Bands and Buy/Sell signal"** (https://github.com/fedeghigo/AI4Trading/blob/master/1 Bollinger%20bands.ipynb "Bollinger Bands and Buy/Sell signal")
