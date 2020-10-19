@@ -1,5 +1,5 @@
 # Welcome to AI4Trading
-Course in under Computer Science at Sapienza 
+The Course in under Computer Science department at Sapienza 
 
 ## Describe your project
 
